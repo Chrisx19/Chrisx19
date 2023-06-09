@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, Thanks for visiting 😀 I hope you enjoy my project demo below the pinned repo 😊</h1>
 <h3 align="center">Embedded/Robotics Software Engineer</h3>
 
-- [Cal Poly Pomona](https://www.cpp.edu/) graduate as[Electronic System Engineering Technology](https://www.cpp.edu/engineering/et/eset/index.shtml) on May, 2023.
+- [Cal Poly Pomona](https://www.cpp.edu/) graduate as [Electronic System Engineering Technology](https://www.cpp.edu/engineering/et/eset/index.shtml) on May, 2023.
 
 - In my free time, I like to get better at my career and do self learning from [Udemy](https://www.udemy.com/)
 
@@ -24,6 +24,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.xilinx.com/products/silicon-devices/fpga.html"> <img src="fpga.png" alt="fpga" width="40" height="40" /> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
 
 - Firmware:
 
@@ -37,10 +38,8 @@
 <a href="https://developer.nvidia.com/embedded/jetson-nano-developer-kit" target="_blank" rel="noreferrer"> <img src="jetson.png" alt="jetson" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 
-
-[![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/3-stats.svg)
 
 
 
