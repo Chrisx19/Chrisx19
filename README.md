@@ -39,7 +39,8 @@
 
 
 </p>
+[![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sontung1010&show_icons=true&locale=en&layout=compact" alt="sontung1010" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sontung1010&show_icons=true&locale=en" alt="sontung1010" /></p>
