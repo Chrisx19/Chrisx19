@@ -38,6 +38,8 @@
 <a href="https://developer.nvidia.com/embedded/jetson-nano-developer-kit" target="_blank" rel="noreferrer"> <img src="jetson.png" alt="jetson" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/863510403120222208/rjVOiTe3_400x400.jpg" alt="esp32" width="40" height="40"/> </a>
+<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/pic-mcus/pic18f-q10" target="_blank" rel="noreferrer"> <img src="https://320volt.com/wp-content/uploads/2009/01/microchip-pic-projeleri-pic12-pic16-pic18.png" alt="pic" width="40" height="40"/> </a>
+  
 
 ![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/Chrisx19/Chrisx19/master/profile-summary-card-output/ayu_mirage/3-stats.svg)
