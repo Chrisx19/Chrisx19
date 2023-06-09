@@ -3,7 +3,7 @@
 
 - [Cal Poly Pomona](https://www.cpp.edu/) graduate as [Electronic System Engineering Technology](https://www.cpp.edu/engineering/et/eset/index.shtml) on May, 2023.
 
-- In my free time, I like to get better at my career and do self learning from [Udemy](https://www.udemy.com/)
+- In my free time, I like to improve my skills and do self learning from [Udemy](https://www.udemy.com/)
 
 - Ask me about **Microcontroller, Embedded Systems, Robotics**
 
