@@ -1,16 +1,45 @@
-# github-profile-summary-cards-example
+<h1 align="center">Hello! 👋, Thanks for visiting 😀 I hope you enjoy my project demo below the pinned repo 😊</h1>
+<h3 align="center">Embedded/Robotics Software Engineer</h3>
 
-:star: [Tutorial](https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Toturial) ( Recommendation ) :star:
+- [Cal Poly Pomona](https://www.cpp.edu/) graduate as[Electronic System Engineering Technology](https://www.cpp.edu/engineering/et/eset/index.shtml) on May, 2023.
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+- In my free time, I like to get better at my career and do self learning from [Udemy](https://www.udemy.com/)
 
-```To create your profile README you need to name the repo as your username```
+- Ask me about **Microcontroller, Embedded Systems, Robotics**
 
-| :bell: | Don't forget to modify the image (All of images are in `profile-summary-card-output` folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+- How to reach me **christopherlazo3199@gmail.com**
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/christopherlazo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Christopher Lazo" height="30" width="40" /></a>
+</p>
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<h3 align="left">Skills, Languages, and Technologies</h3>
+<p align="left">
+
+- Languages:
+
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.xilinx.com/products/silicon-devices/fpga.html"> <img src="fpga.png" alt="fpga" width="40" height="40" /> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+
+- Firmware:
+
+<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="ros.png" alt="ros" width="40" height="40"/> </a>
+<a href="https://docs.ros.org/en/foxy/Releases/Release-Eloquent-Elusor.html" target="_blank" rel="noreferrer"> <img src="ros2.png" alt="ros2" width="40" height="40"/> </a>
+<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer"> <img src="vivado.png" alt="vivado" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.arm.com/architecture" target="_blank" rel="noreferrer"> <img src="arm.png" alt="arm" width="40" height="40"/> </a>
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> <img src="stm32.png" alt="stm32" width="40" height="40"/> </a>
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
+<a href="https://developer.nvidia.com/embedded/jetson-nano-developer-kit" target="_blank" rel="noreferrer"> <img src="jetson.png" alt="jetson" width="40" height="40"/> </a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+
+
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sontung1010&show_icons=true&locale=en&layout=compact" alt="sontung1010" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sontung1010&show_icons=true&locale=en" alt="sontung1010" /></p>
